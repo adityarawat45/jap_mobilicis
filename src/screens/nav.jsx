@@ -7,10 +7,10 @@ function Nav() {
         <div className="flex justify-start items-center">  
         <img src="src/images/user.jpg" className="h-10 w-10 mr-5"></img>
         <div className="flex space-x-4"> 
-  <a href="" className="text-black font-semibold ">Home</a> 
+  <a href="#" className="text-black font-semibold ">Home</a> 
   <a href="/jobs" className="text-black font-semibold ml-3">Jobs</a> 
-  <a href="" className="text-black font-semibold ml-3">Culture</a> 
-  <a href="" className="text-black font-semibold ml-3">More</a> 
+  <a href="#" className="text-black font-semibold ml-3">Culture</a> 
+  <a href="#" className="text-black font-semibold ml-3">More</a> 
   </div>
         </div>
         <div>
